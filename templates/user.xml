@@ -1,0 +1,17 @@
+<templateSet group="user">
+  <template name="logw" value="&lt;!-- TODO: remove log --&gt;&#10;&lt;log category=&quot;WARN&quot; level=&quot;custom&quot;&gt;&#10;    &lt;property name=&quot;___test&quot; expression=&quot;stub&quot;/&gt;&#10;&lt;/log&gt;" description="logging stub" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="payload" value="&lt;payloadFactory&gt;&#10;    &lt;format&gt;&#10;        &#10;    &lt;/format&gt;&#10;    &lt;args&gt;&#10;        &lt;arg expression=&quot;$ctx:&quot; /&gt;&#10;    &lt;/args&gt;&#10;&lt;/payloadFactory&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="&lt;switch source=&quot;$ctx:RequestType&quot;&gt;&#10;    &lt;case regex=&quot;&quot;&gt;&#10;        &#10;    &lt;/case&gt;&#10;    &lt;default&gt;&#10;        &#10;    &lt;/default&gt;&#10;&lt;/switch&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
