@@ -7,6 +7,7 @@
       <mapping pattern="activemq" type="Bash" />
       <mapping pattern="activemqStop" type="Bash" />
       <mapping pattern="res" type="PLAIN_TEXT" />
+      <mapping pattern=".hgignore" type="PLAIN_TEXT" />
       <mapping pattern="activemq2" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid4111" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
