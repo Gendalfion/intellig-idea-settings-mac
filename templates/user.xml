@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="logw" value="&lt;!-- TODO: remove log --&gt;&#10;&lt;log category=&quot;WARN&quot; level=&quot;custom&quot;&gt;&#10;    &lt;property name=&quot;___test&quot; expression=&quot;stub&quot;/&gt;&#10;&lt;/log&gt;" description="logging stub" toReformat="false" toShortenFQNames="true">
+  <template name="logw" value="&lt;!-- TODO: remove log --&gt;&#10;&lt;log category=&quot;WARN&quot; level=&quot;custom&quot; separator=&quot;&amp;#x9;|&amp;#x9;&quot;&gt;&#10;    &lt;property name=&quot;___test&quot; expression=&quot;stub&quot;/&gt;&#10;    &lt;property name=&quot;BUSINESS_ID&quot; expression=&quot;get-property('UUID')&quot;/&gt;&#10;&lt;/log&gt;" description="logging stub" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
@@ -10,6 +10,21 @@
     </context>
   </template>
   <template name="switch" value="&lt;switch source=&quot;$ctx:RequestType&quot;&gt;&#10;    &lt;case regex=&quot;&quot;&gt;&#10;        &#10;    &lt;/case&gt;&#10;    &lt;default&gt;&#10;        &#10;    &lt;/default&gt;&#10;&lt;/switch&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="scriptg" value="&lt;script language=&quot;groovy&quot;&gt;&lt;![CDATA[mc.setProperty(&quot;UUID&quot;, java.util.UUID.randomUUID().toString());]]&gt;&lt;/script&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="filterx" value="&lt;filter xpath=&quot;count(//soap11:Body/soap11:Fault|//soap12:Body/soap12:Fault)&gt;0&quot;&#10;                    xmlns:soap11=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&#10;                    xmlns:soap12=&quot;http://www.w3.org/2003/05/soap-envelope&quot;&gt;&#10;    &lt;then&gt;&#10;    &lt;/then&gt;&#10;    &lt;else&gt;&#10;    &lt;/else&gt;&#10;&lt;/filter&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="filters" value="&lt;filter source=&quot;$ctx:&quot; regex=&quot;&quot;&gt;&#10;    &lt;then&gt;&#10;    &lt;/then&gt;&#10;    &lt;else&gt;&#10;    &lt;/else&gt;&#10;&lt;/filter&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
