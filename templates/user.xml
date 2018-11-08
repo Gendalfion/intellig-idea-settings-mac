@@ -14,4 +14,9 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="scriptg" value="&lt;script language=&quot;groovy&quot;&gt;&lt;![CDATA[mc.setProperty(&quot;UUID&quot;, java.util.UUID.randomUUID().toString());]]&gt;&lt;/script&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
