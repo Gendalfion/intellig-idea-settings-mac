@@ -6,6 +6,7 @@
       <mapping pattern="wso2esb" type="Bash" />
       <mapping pattern="activemq" type="Bash" />
       <mapping pattern="activemqStop" type="Bash" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="res" type="PLAIN_TEXT" />
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid4111" type="PLAIN_TEXT" />
