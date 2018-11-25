@@ -61,6 +61,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="TabsPlacementNone">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
