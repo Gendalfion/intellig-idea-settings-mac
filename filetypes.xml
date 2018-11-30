@@ -10,14 +10,16 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="res" type="PLAIN_TEXT" />
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="activemq2" type="PLAIN_TEXT" />
       <mapping pattern="restartOnOOM" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid4111" type="PLAIN_TEXT" />
-      <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="sequence" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <removed_mapping ext="xtend" approved="true" type="JAVA" />
+      <removed_mapping ext="xtend_" approved="true" type="JAVA" />
     </extensionMap>
   </component>
 </application>
