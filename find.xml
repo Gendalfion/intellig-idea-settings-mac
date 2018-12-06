@@ -16,10 +16,10 @@
     <mask>*.xtend</mask>
     <mask>*.ts</mask>
     <mask>*.md</mask>
-    <mask>*.sql</mask>
     <mask>*.xsl</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
