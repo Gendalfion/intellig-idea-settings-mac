@@ -1,5 +1,34 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.7 (hg-proj) (1) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python37/DLLs" />
+        <root url="file://C:/Python37/Lib" />
+        <root url="file://C:/Python37" />
+        <root url="file://C:/Python37/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1055577769" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python37/DLLs" />
+        <root url="file://C:/Python37/Lib" />
+        <root url="file://C:/Python37" />
+        <root url="file://C:/Python37/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1055577769" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 (StressTesting) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/DLLs" />
