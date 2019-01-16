@@ -69,9 +69,6 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
-  <action id="TabsPlacementNone">
-    <keyboard-shortcut first-keystroke="alt x" />
-  </action>
   <action id="TabsPlacementTop">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
@@ -90,7 +87,9 @@
   <action id="Tool_External Tools_tfundo">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
-  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.Evaluate">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
