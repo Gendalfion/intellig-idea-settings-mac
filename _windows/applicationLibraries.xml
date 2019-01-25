@@ -122,15 +122,48 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.7 (helmets) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python37/DLLs" />
+        <root url="file://C:/Python37/Lib" />
+        <root url="file://C:/Python37" />
+        <root url="file://E:/users/Amvrosov/proj/videoAnalytics/helmets/venv" />
+        <root url="file://E:/users/Amvrosov/proj/videoAnalytics/helmets/venv/Lib/site-packages" />
+        <root url="jar://E:/users/Amvrosov/proj/videoAnalytics/helmets/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://E:/users/Amvrosov/proj/videoAnalytics/helmets/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-978027063" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+        <root url="file://C:/Python37/Lib/site-packages" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python37/DLLs" />
+        <root url="file://C:/Python37/Lib" />
+        <root url="file://C:/Python37" />
+        <root url="file://E:/users/Amvrosov/proj/videoAnalytics/helmets/venv" />
+        <root url="file://E:/users/Amvrosov/proj/videoAnalytics/helmets/venv/Lib/site-packages" />
+        <root url="jar://E:/users/Amvrosov/proj/videoAnalytics/helmets/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://E:/users/Amvrosov/proj/videoAnalytics/helmets/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-978027063" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+        <root url="file://C:/Python37/Lib/site-packages" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 (hg-proj) (1) interpreter library">
       <CLASSES>
         <root url="file://C:/Python37/DLLs" />
         <root url="file://C:/Python37/Lib" />
         <root url="file://C:/Python37" />
         <root url="file://C:/Python37/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1055577769" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
@@ -142,9 +175,7 @@
         <root url="file://C:/Python37/Lib" />
         <root url="file://C:/Python37" />
         <root url="file://C:/Python37/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1055577769" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
@@ -162,7 +193,6 @@
         <root url="file://E:/users/Amvrosov/proj/mgs/tfs/Sandbox/WSO2ESB/StressTesting/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-194537713" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
@@ -179,7 +209,6 @@
         <root url="file://E:/users/Amvrosov/proj/mgs/tfs/Sandbox/WSO2ESB/StressTesting/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-194537713" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
