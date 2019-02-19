@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="logw" value="&lt;!-- TODO: remove log --&gt;&#10;&lt;log category=&quot;WARN&quot; level=&quot;custom&quot; separator=&quot;&amp;#x9;|&amp;#x9;&quot;&gt;&#10;    &lt;property name=&quot;___test&quot; expression=&quot;stub&quot;/&gt;&#10;    &lt;property name=&quot;BUSINESS_ID&quot; expression=&quot;get-property('UUID')&quot;/&gt;&#10;&lt;/log&gt;" description="logging stub" toReformat="false" toShortenFQNames="true">
+  <template name="logw" value="&lt;!-- TODO: remove log --&gt;&#10;&lt;log category=&quot;WARN&quot; level=&quot;custom&quot; separator=&quot;&amp;#x9;|&amp;#x9;&quot;&gt;&#10;    &lt;property name=&quot;____test&quot; value=&quot;stub&quot;/&gt;&#10;    &lt;property name=&quot;____var&quot; expression=&quot;$ctx:var&quot;/&gt;&#10;    &lt;property name=&quot;BUSINESS_ID&quot; expression=&quot;get-property('UUID')&quot;/&gt;&#10;&lt;/log&gt;" description="logging stub" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
