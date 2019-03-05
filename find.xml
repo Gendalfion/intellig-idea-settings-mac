@@ -18,7 +18,7 @@
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*.epl</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
