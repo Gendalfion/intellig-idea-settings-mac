@@ -15,9 +15,9 @@
     <mask>*.md</mask>
     <mask>*.xsl</mask>
     <mask>*.properties</mask>
-    <mask>*.sql</mask>
     <mask>*.epl</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
     <mask>*.xml</mask>
   </component>
 </application>
