@@ -8,15 +8,19 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="gendalfion" />
+          <option name="userName" value="aamvrosov" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/Gendalfion/zoho-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aamvrosov@bitbucket.org/sphengineering/activation-service-utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\users\Amvrosov\proj" />
+    <option name="cloneParentDir" value="E:\users\Amvrosov\proj\sphe" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/WINDOWS/system32" />
