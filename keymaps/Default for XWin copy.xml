@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateDatabaseConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -29,6 +32,7 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
