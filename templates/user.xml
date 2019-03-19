@@ -34,4 +34,9 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="auditlog" value="&lt;call-template target=&quot;AuditLog&quot;&gt;&#10;    &lt;with-param name=&quot;category&quot; value=&quot;INFO&quot;/&gt;&#10;    &lt;with-param name=&quot;level&quot; value=&quot;custom&quot;/&gt;&#10;    &lt;with-param name=&quot;AUDIT_POINT_CODE&quot; value=&quot;some:code&quot;/&gt;&#10;    &lt;with-param name=&quot;DESCRIPTION&quot; value=&quot;value&quot;/&gt;&#10;    &lt;with-param name=&quot;BUSINESS_ID&quot; value=&quot;{get-property('UUID')}&quot;/&gt;&#10;    &lt;with-param name=&quot;PARENT_BUSINESS_ID&quot; value=&quot;{get-property('ParentUUID')}&quot;/&gt;&#10;&lt;/call-template&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
