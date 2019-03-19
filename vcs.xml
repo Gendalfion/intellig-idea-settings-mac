@@ -26,6 +26,9 @@
     </option>
     <option name="cloneParentDir" value="E:\users\Amvrosov\proj\sphe" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/WINDOWS/system32" />
   </component>
