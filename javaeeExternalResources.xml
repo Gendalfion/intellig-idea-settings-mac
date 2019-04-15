@@ -11,6 +11,8 @@
     <ignored-resource url="http://mos-gorsud.ru/integration/common" />
     <ignored-resource url="http://mos-gorsud.ru/integration/eim" />
     <ignored-resource url="http://mos-gorsud.ru/integration/routing" />
+    <ignored-resource url="http://mos-gorsud.ru/integration/ssd" />
+    <ignored-resource url="http://mos-gorsud.ru/integration/ssd/documents/concise" />
     <ignored-resource url="http://ws.apache.org/ns/synapse" />
     <ignored-resource url="http://www.w3.org/2003/05/soap-envelope" />
   </component>
