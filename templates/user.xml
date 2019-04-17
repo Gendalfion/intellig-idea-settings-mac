@@ -39,4 +39,14 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="savemsg" value="&lt;!-- Сохраняем исходное сообщение --&gt;&#10;&lt;enrich&gt;&#10;    &lt;source clone=&quot;true&quot; type=&quot;envelope&quot;/&gt;&#10;    &lt;target action=&quot;replace&quot; property=&quot;_InitialMessage&quot; type=&quot;property&quot;/&gt;&#10;&lt;/enrich&gt;&#10;" description="Save current envelope to property" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="restoremsg" value="&lt;!-- Восстанавливаем исходное сообщение --&gt;&#10;&lt;enrich&gt;&#10;    &lt;source clone=&quot;true&quot; property=&quot;_InitialMessage&quot; type=&quot;property&quot;/&gt;&#10;    &lt;target action=&quot;replace&quot; type=&quot;envelope&quot;/&gt;&#10;&lt;/enrich&gt;&#10;" description="Restore current envelope from property" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
