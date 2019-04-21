@@ -16,12 +16,14 @@
       <mapping pattern="activemq2" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="EventListFilter" type="PLAIN_TEXT" />
+      <mapping pattern="attach_check_cc" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="sequence" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="xmkl" type="PLAIN_TEXT" />
       <removed_mapping ext="xtend" approved="true" type="JAVA" />
     </extensionMap>
   </component>
