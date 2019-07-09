@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -18,12 +18,12 @@
     <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>*.xsl</mask>
-    <mask>*.properties</mask>
     <mask>*.epl</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xslt</mask>
     <mask>*.pom</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
