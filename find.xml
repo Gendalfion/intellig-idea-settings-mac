@@ -3,5 +3,22 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.xtend</mask>
+    <mask>*.ts</mask>
+    <mask>*.md</mask>
+    <mask>*.xsl</mask>
+    <mask>*.epl</mask>
+    <mask>*.sql</mask>
+    <mask>*.java</mask>
+    <mask>*.xslt</mask>
+    <mask>*.pom</mask>
+    <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
