@@ -22,7 +22,7 @@
     <mask>*.java</mask>
     <mask>*.xslt</mask>
     <mask>*.pom</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
