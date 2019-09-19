@@ -19,7 +19,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="filterx" value="&lt;filter xpath=&quot;count(//soap11:Body/soap11:Fault|//soap12:Body/soap12:Fault)&gt;0&quot;&#10;                    xmlns:soap11=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&#10;                    xmlns:soap12=&quot;http://www.w3.org/2003/05/soap-envelope&quot;&gt;&#10;    &lt;then&gt;&#10;    &lt;/then&gt;&#10;    &lt;else&gt;&#10;    &lt;/else&gt;&#10;&lt;/filter&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="filterx" value="&lt;filter xpath=&quot;count(//soap11:Body/soap11:Fault|//soap12:Body/soap12:Fault) &gt; 0&quot;&#10;                    xmlns:soap11=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&#10;                    xmlns:soap12=&quot;http://www.w3.org/2003/05/soap-envelope&quot;&gt;&#10;    &lt;then&gt;&#10;    &lt;/then&gt;&#10;    &lt;else&gt;&#10;    &lt;/else&gt;&#10;&lt;/filter&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
@@ -34,7 +34,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="auditlog" value="&lt;call-template target=&quot;AuditLog&quot;&gt;&#10;    &lt;with-param name=&quot;category&quot; value=&quot;INFO&quot;/&gt;&#10;    &lt;with-param name=&quot;level&quot; value=&quot;custom&quot;/&gt;&#10;    &lt;with-param name=&quot;AUDIT_POINT_CODE&quot; value=&quot;some:code&quot;/&gt;&#10;    &lt;with-param name=&quot;DESCRIPTION&quot; value=&quot;value&quot;/&gt;&#10;    &lt;with-param name=&quot;BUSINESS_ID&quot; value=&quot;{get-property('UUID')}&quot;/&gt;&#10;    &lt;with-param name=&quot;PARENT_BUSINESS_ID&quot; value=&quot;{get-property('ParentUUID')}&quot;/&gt;&#10;&lt;/call-template&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="auditlog" value="&lt;call-template target=&quot;AuditLog&quot;&gt;&#10;    &lt;with-param name=&quot;category&quot; value=&quot;INFO&quot;/&gt;&#10;    &lt;with-param name=&quot;level&quot; value=&quot;custom&quot;/&gt;&#10;    &lt;with-param name=&quot;AUDIT_POINT_CODE&quot; value=&quot;some:code&quot;/&gt;&#10;    &lt;with-param name=&quot;DESCRIPTION&quot; value=&quot;value&quot;/&gt;&#10;    &lt;with-param name=&quot;STATUS&quot; value=&quot;2&quot;/&gt;&#10;    &lt;with-param name=&quot;BUSINESS_ID&quot; value=&quot;{get-property('UUID')}&quot;/&gt;&#10;    &lt;with-param name=&quot;PARENT_BUSINESS_ID&quot; value=&quot;{get-property('ParentUUID')}&quot;/&gt;&#10;&lt;/call-template&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
