@@ -7,12 +7,12 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="res" type="PLAIN_TEXT" />
-      <mapping pattern="backup_prod_STAV" type="PLAIN_TEXT" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
       <mapping pattern="activemq2" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid4111" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="backup_prod_STAV" type="PLAIN_TEXT" />
       <mapping pattern="restartOnOOM" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="EventListFilter" type="PLAIN_TEXT" />
