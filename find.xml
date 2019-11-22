@@ -22,7 +22,7 @@
     <mask>*.pom</mask>
     <mask>*.xslt</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
