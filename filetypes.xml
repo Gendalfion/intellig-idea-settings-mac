@@ -8,6 +8,7 @@
       <mapping pattern="res" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="restartOnOOM" type="PLAIN_TEXT" />
+      <mapping pattern="alerts_queue_size.json" type="PLAIN_TEXT" />
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
       <mapping pattern="attach_check_cc" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid4111" type="PLAIN_TEXT" />
