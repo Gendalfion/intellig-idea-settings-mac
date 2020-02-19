@@ -21,6 +21,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="sequence" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
