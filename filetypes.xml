@@ -27,6 +27,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="xmkl" type="PLAIN_TEXT" />
+      <mapping pattern="activemq" type="Shell Script" />
       <removed_mapping ext="xtend" approved="true" type="JAVA" />
       <mapping pattern="activemq" type="Bash" />
       <mapping pattern="activemqStop" type="Bash" />
