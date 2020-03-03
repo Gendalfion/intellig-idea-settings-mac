@@ -22,10 +22,9 @@
       <mapping ext="sequence" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="xmkl" type="PLAIN_TEXT" />
       <mapping pattern="activemq" type="Shell Script" />
       <removed_mapping ext="xtend" approved="true" type="JAVA" />
