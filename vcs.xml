@@ -3,55 +3,13 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Gendalfion/password-helper.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="aamvrosov" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Gendalfion/zoho-demo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://aamvrosov@bitbucket.org/sphengineering/activation-service-utils.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://aamvrosov@bitbucket.org/sphengineering/ugcs-activation-services.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.croc.ru/CROC.DRPO_RnD/croc-integration-platform/cip-legacy.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.croc.ru/CROC.DRPO_RnD/croc-integration-platform/cip.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Gendalfion/cron-downloader.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/spotify/dockerfile-maven.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="amvrosovalex@gmail.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://gitlab.croc.ru" />
           <option name="userName" value="AAmvrosov" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\users\Amvrosov\pet-proj" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
