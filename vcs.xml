@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.croc.ru" />
           <option name="userName" value="AAmvrosov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://msts.croc.ru" />
+          <option name="userName" value="AAmvrosov" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
