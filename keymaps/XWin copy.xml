@@ -20,6 +20,9 @@
   </action>
   <action id="EditorContextInfo" />
   <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="Groovy.Console">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="Kotlin.RunScratch" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt r" />
