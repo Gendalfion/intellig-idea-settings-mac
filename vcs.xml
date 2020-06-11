@@ -14,8 +14,13 @@
           <option name="url" value="http://msts:8080" />
           <option name="userName" value="AAmvrosov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.croc.ru/MOSCARGO/ASCS/integration-bus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="E:\users\Amvrosov\proj\moek" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
