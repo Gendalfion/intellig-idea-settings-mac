@@ -18,9 +18,13 @@
           <option name="url" value="https://gitlab.croc.ru/MOSCARGO/ASCS/integration-bus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://msts:8080/DIT/%D0%9C%D0%93%D0%A1.%D0%9A%D0%98%D0%A1%20%D0%A1%D0%9E%D0%AE/_git/CrocCloud" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\users\Amvrosov\proj\moek" />
+    <option name="cloneParentDir" value="E:\users\Amvrosov\proj" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
