@@ -20,6 +20,7 @@
       <mapping pattern="backup_prod_STAV" type="PLAIN_TEXT" />
       <mapping pattern="restartOnOOM" type="PLAIN_TEXT" />
       <mapping pattern="alerts_queue_size.json" type="PLAIN_TEXT" />
+      <mapping ext="xtend" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="sequence" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
