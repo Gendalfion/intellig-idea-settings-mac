@@ -10,6 +10,7 @@
       <mapping pattern="restartOnOOM" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid4111" type="PLAIN_TEXT" />
+      <mapping pattern="StubPolicy" type="PLAIN_TEXT" />
       <mapping pattern="EventListFilter" type="PLAIN_TEXT" />
       <mapping pattern="attach_check_cc" type="PLAIN_TEXT" />
       <mapping pattern="alerts_queue_size.json" type="PLAIN_TEXT" />
