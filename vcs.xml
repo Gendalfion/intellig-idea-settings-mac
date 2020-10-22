@@ -49,7 +49,4 @@
       </list>
     </option>
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$APPLICATION_HOME_DIR$/jbr/bin" />
-  </component>
 </application>
