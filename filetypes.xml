@@ -30,6 +30,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="xmkl" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="slim" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping pattern="activemq" type="Shell Script" />
       <removed_mapping ext="xtend" approved="true" type="JAVA" />
