@@ -26,6 +26,7 @@
       <mapping ext="xtend" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="sequence" type="PLAIN_TEXT" />
+      <mapping ext="distroless" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="xmkl" type="PLAIN_TEXT" />
