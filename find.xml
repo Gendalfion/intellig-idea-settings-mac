@@ -14,5 +14,7 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.yml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
