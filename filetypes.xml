@@ -36,6 +36,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="xtend" approved="true" type="JAVA" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping pattern="activemq" type="Bash" />
       <mapping pattern="activemqStop" type="Bash" />
       <mapping pattern="wso2esb" type="Bash" />
