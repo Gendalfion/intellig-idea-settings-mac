@@ -38,6 +38,10 @@
           <option name="url" value="https://gitlab.croc.ru/VTB/Authentication_service/Authentication_service" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://VTB4048338@bitbucket.region.vtb.ru/scm/ac/ac.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\users\Amvrosov\proj\vtb_ac" />
