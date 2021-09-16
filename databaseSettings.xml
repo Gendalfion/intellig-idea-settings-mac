@@ -60,6 +60,14 @@
           </record-format>
         </header>
       </csv-format>
+      <csv-format name="CSV_Comma" id="58f0f11d-0275-4620-b36e-f497206056c3">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="never" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true" />
+        </data>
+        <header>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="never" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true" />
+        </header>
+      </csv-format>
     </csv-formats>
   </component>
 </application>
