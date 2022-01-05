@@ -46,6 +46,10 @@
           <option name="url" value="http://bitbucket.region.vtb.ru" />
           <option name="userName" value="VTB4048338" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.region.vtb.ru/scm/ac/deploy-ac.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\users\Amvrosov\proj\vtb_ac" />
