@@ -21,6 +21,7 @@
       <mapping pattern="bash-exporter" type="PLAIN_TEXT" />
       <mapping ext="xtend" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="msg5" type="PLAIN_TEXT" />
       <mapping ext="sequence" type="PLAIN_TEXT" />
       <mapping ext="distroless" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
