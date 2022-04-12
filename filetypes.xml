@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="StubPolicy" type="PLAIN_TEXT" />
       <mapping pattern="backup_prod_STAV" type="PLAIN_TEXT" />
       <mapping pattern="EventListFilter" type="PLAIN_TEXT" />
@@ -35,8 +37,6 @@
       <removed_mapping ext="xtend" approved="true" type="JAVA" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".hgignore" approved="true" type="HgIgnore file" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="activemq" type="Bash" />
       <mapping pattern="activemqStop" type="Bash" />
       <mapping pattern="wso2esb" type="Bash" />
