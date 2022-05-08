@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS custom" parent="Mac OS X 10.5+">
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift o" />
   </action>
