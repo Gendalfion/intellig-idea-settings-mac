@@ -3,6 +3,6 @@
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="Terminal.OpenInTerminal">
-    <keyboard-shortcut first-keystroke="shift o" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
 </keymap>
