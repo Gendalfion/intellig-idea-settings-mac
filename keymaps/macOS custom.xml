@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS custom" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
