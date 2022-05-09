@@ -1,4 +1,10 @@
 <keymap version="1" name="macOS custom" parent="Mac OS X 10.5+">
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
