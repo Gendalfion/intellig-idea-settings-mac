@@ -78,6 +78,9 @@
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="alt tab" />
   </action>
