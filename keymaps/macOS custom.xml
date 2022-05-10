@@ -45,7 +45,7 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="ShowPopupMenu">
-    <keyboard-shortcut first-keystroke="meta #10000a7" />
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="alt tab" />
