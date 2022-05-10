@@ -32,8 +32,14 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
+  <action id="PinActiveTabToggle">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="Runner.CloseAllUnpinnedViews">
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="ServiceView.AddService">
     <keyboard-shortcut first-keystroke="ctrl enter" />
