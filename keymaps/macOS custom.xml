@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS custom" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="alt escape" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt c" />
@@ -8,6 +11,9 @@
   </action>
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="alt escape" />
   </action>
   <action id="EditorJoinLines" />
   <action id="FileChooser.NewFolder" />
