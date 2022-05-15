@@ -15,6 +15,12 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="alt f6" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="shift alt q" />
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -32,6 +38,11 @@
   </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="alt escape" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="alt y" />
   </action>
   <action id="EditorJoinLines" />
   <action id="EditorSelectWord">
@@ -125,9 +136,14 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
@@ -196,5 +212,6 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="WD.UploadCurrentRemoteFileAction" />
   <action id="tasks.goto" />
 </keymap>
