@@ -18,16 +18,46 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditPropertyValue" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="alt escape" />
   </action>
   <action id="EditorJoinLines" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
@@ -76,6 +106,8 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -101,6 +133,9 @@
     <keyboard-shortcut first-keystroke="alt e" />
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl meta j" />
     <keyboard-shortcut first-keystroke="ctrl alt j" />
@@ -120,8 +155,8 @@
     <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
   <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -152,6 +187,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
+  <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
