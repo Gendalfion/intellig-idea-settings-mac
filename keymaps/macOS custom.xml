@@ -48,6 +48,9 @@
     <keyboard-shortcut first-keystroke="alt y" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -104,6 +107,7 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
