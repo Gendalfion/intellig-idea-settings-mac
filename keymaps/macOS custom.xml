@@ -32,6 +32,10 @@
     <keyboard-shortcut first-keystroke="shift meta alt c" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+  </action>
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -53,6 +57,9 @@
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="EditorJoinLines" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
@@ -114,6 +121,12 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl meta n" />
     <keyboard-shortcut first-keystroke="shift meta alt n" />
@@ -169,6 +182,10 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
     <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
