@@ -55,15 +55,21 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NavigateExportedAction" />
-  <action id="Console.TableResult.SetDefault">
-    <keyboard-shortcut first-keystroke="alt d" />
+  <action id="Console.TableResult.SetDefault" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="shift meta alt c" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="Debug" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
@@ -92,6 +98,10 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorJoinLines" />
   <action id="EditorPreviousWord">
@@ -297,6 +307,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
   <action id="UsageFiltering.WriteAccess" />
+  <action id="UsageGrouping.DirectoryStructure" />
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
