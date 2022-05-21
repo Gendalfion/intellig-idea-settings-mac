@@ -2,6 +2,18 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt escape" />
   </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt c" />
@@ -15,6 +27,9 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="alt f6" />
   </action>
+  <action id="ChangesView.Move">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt q" />
     <keyboard-shortcut first-keystroke="alt q" />
@@ -27,7 +42,24 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.NavigateExportedAction" />
+  <action id="Console.TableResult.SetDefault">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="shift meta alt c" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
@@ -36,10 +68,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
+  <action id="Diff.NextChange" />
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditBreakpoint">
+    <keyboard-shortcut first-keystroke="shift meta f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl f8" />
+  </action>
   <action id="EditPropertyValue" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -106,11 +143,18 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="FindUsages" />
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="ctrl f3" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -135,19 +179,17 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="Jdbc.OpenConsole.New">
+    <keyboard-shortcut first-keystroke="shift meta f5" />
+  </action>
+  <action id="Jdbc.OpenConsole.New.Generate">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="alt up" />
-  </action>
-  <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
-  <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
@@ -156,6 +198,9 @@
   </action>
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift alt equals" />
+  </action>
+  <action id="NextEditorTab">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="NextSplitter" />
   <action id="NextTab">
@@ -209,6 +254,9 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="ShowContent">
+    <keyboard-shortcut first-keystroke="ctrl alt tab" />
+  </action>
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
@@ -237,6 +285,9 @@
     <keyboard-shortcut first-keystroke="ctrl escape" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -250,7 +301,15 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift meta f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl f8" />
+  </action>
   <action id="WD.UploadCurrentRemoteFileAction" />
+  <action id="org.jetbrains.security.toolwindow.tree.actions.FindUsagesAction" />
   <action id="tasks.close" />
   <action id="tasks.goto" />
 </keymap>
