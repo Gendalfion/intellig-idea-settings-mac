@@ -91,6 +91,10 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="alt escape" />
   </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -256,6 +260,10 @@
     <keyboard-shortcut first-keystroke="alt e" />
     <keyboard-shortcut first-keystroke="meta e" />
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
