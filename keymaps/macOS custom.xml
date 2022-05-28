@@ -228,6 +228,8 @@
   </action>
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift alt equals" />
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
   </action>
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -363,6 +365,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
   </action>
   <action id="WD.UploadCurrentRemoteFileAction" />
+  <action id="ZoomCurrentWindow" />
   <action id="org.jetbrains.security.toolwindow.tree.actions.FindUsagesAction" />
   <action id="tasks.close" />
   <action id="tasks.goto" />
