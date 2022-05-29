@@ -135,6 +135,9 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
@@ -177,6 +180,10 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -395,6 +402,7 @@
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="ctrl escape" />
   </action>
+  <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
   <action id="ToggleLineBreakpoint">
