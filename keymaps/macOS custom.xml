@@ -129,6 +129,9 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
@@ -166,6 +169,10 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="meta alt m" />
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
@@ -192,13 +199,13 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta n" />
-    <keyboard-shortcut first-keystroke="alt n" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoFile">
@@ -219,6 +226,26 @@
   <action id="GuiDesigner.QuickJavadoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="meta alt v" />
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="Jdbc.OpenConsole.New">
     <keyboard-shortcut first-keystroke="shift meta f5" />
@@ -250,6 +277,10 @@
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewElementSamePlace" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift alt equals" />
@@ -330,6 +361,7 @@
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
+  <action id="ShowFilterPopup" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt w" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -394,6 +426,7 @@
     <keyboard-shortcut first-keystroke="meta alt z" />
     <keyboard-shortcut first-keystroke="ctrl alt z" />
   </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta f8" />
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
