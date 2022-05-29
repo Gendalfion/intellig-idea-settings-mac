@@ -35,6 +35,10 @@
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="alt f6" />
   </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.Move">
     <keyboard-shortcut first-keystroke="shift alt m" />
