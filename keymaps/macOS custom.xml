@@ -336,6 +336,7 @@
     <keyboard-shortcut first-keystroke="alt page_down" />
     <keyboard-shortcut first-keystroke="alt end" />
   </action>
+  <action id="NextWindow" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
     <keyboard-shortcut first-keystroke="ctrl p" />
