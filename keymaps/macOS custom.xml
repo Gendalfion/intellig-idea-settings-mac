@@ -223,7 +223,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="meta g" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="FindPrevWordAtCaret">
@@ -240,6 +239,10 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt a" />
