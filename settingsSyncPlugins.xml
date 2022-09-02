@@ -24,6 +24,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.mnr.java.intellij.idea.plugin.base64helper">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.jetbrains.kotlin">
           <value>
             <PluginData />
