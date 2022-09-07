@@ -21,6 +21,7 @@
       <mapping pattern="restartOnOOM" type="PLAIN_TEXT" />
       <mapping pattern="activemq2" type="PLAIN_TEXT" />
       <mapping pattern="bash-exporter" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="xtend" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="msg5" type="PLAIN_TEXT" />
