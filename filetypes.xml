@@ -4,10 +4,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".bash_aliases" type="PLAIN_TEXT" />
-      <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="StubPolicy" type="PLAIN_TEXT" />
-      <mapping pattern="1юече" type="PLAIN_TEXT" />
       <mapping pattern="backup_prod_STAV" type="PLAIN_TEXT" />
       <mapping pattern="EventListFilter" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
@@ -15,12 +12,16 @@
       <mapping pattern=".attach_pid4111" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="attach_check_cc" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="alerts_queue_size.json" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_aliases" type="PLAIN_TEXT" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="1юече" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="restartOnOOM" type="PLAIN_TEXT" />
       <mapping pattern="activemq2" type="PLAIN_TEXT" />
       <mapping pattern="bash-exporter" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="xtend" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="msg5" type="PLAIN_TEXT" />
