@@ -162,6 +162,10 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -316,6 +320,10 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NavBar-selectHome">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="NavBar-selectUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
@@ -337,6 +345,7 @@
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="NextSplitter" />
   <action id="NextTab">
@@ -358,6 +367,7 @@
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
     <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt page_up" />
@@ -472,6 +482,7 @@
   <action id="UsageFiltering.WriteAccess" />
   <action id="UsageGrouping.Directory" />
   <action id="UsageGrouping.DirectoryStructure" />
+  <action id="UsageGrouping.FileStructure" />
   <action id="UsageGrouping.Package" />
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="f1" />
