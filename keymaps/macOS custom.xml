@@ -349,8 +349,7 @@
   </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
-    <keyboard-shortcut first-keystroke="alt a" />
-    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="NextSplitter" />
   <action id="NextTab">
@@ -371,8 +370,7 @@
   <action id="PreviousEditorTab" />
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
-    <keyboard-shortcut first-keystroke="alt s" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt page_up" />
