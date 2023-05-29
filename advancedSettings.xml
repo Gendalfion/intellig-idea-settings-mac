@@ -5,7 +5,7 @@
         <entry key="compiler.automake.allow.when.app.running" value="true" />
         <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="show.diff.as.editor.tab" value="false" />
-        <entry key="terminal.buffer.max.lines.count" value="30000" />
+        <entry key="terminal.buffer.max.lines.count" value="300000" />
       </map>
     </option>
   </component>
