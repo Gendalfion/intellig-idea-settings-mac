@@ -28,13 +28,13 @@
       <mapping ext="sequence" type="PLAIN_TEXT" />
       <mapping ext="distroless" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="xmkl" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="slim" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="cer" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="crt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="jks" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="xtend" approved="true" type="JAVA" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />

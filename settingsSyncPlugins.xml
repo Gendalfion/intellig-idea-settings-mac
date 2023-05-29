@@ -25,6 +25,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="co.anbora.labs.kse">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.mnr.java.intellij.idea.plugin.base64helper">
           <value>
             <PluginData>
