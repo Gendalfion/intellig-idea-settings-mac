@@ -320,11 +320,9 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="MoveStatementDown" />
@@ -359,6 +357,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt page_down" />
     <keyboard-shortcut first-keystroke="alt end" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="NextWindow" />
   <action id="ParameterInfo">
@@ -379,6 +378,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt page_up" />
     <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="QuickImplementations">
@@ -510,6 +510,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
   </action>
   <action id="WD.UploadCurrentRemoteFileAction" />
+  <action id="XDebugger.MoveWatchDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="ZoomCurrentWindow" />
   <action id="org.jetbrains.security.toolwindow.tree.actions.FindUsagesAction" />
   <action id="tasks.close" />
